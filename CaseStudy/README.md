@@ -24,7 +24,7 @@ A digital camera takes light and focuses it via the lens onto a sensor made out 
 
 ## BLOCK DIAGRAM ##
 
-![]()
+![](https://github.com/dhaya007/M2-EmbSys/blob/main/CaseStudy/Complex.jpg)
 
 
 ## COMPONENTS ##
