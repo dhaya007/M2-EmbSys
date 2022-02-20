@@ -8,7 +8,7 @@ Thermal processes are noncatalytic processes that decompose, rearrange, or combi
 
 ## BLOCK DIAGRAM ##
 
-![]()
+![](https://github.com/dhaya007/M2-EmbSys/blob/main/CaseStudy/Simple.jpeg)
 
 
 ## COMPONENTS ##
