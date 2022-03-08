@@ -17,6 +17,8 @@ Smartwatches are trending devices that give its users the ability to be connecte
 
 ## SWOT ANALYSIS
 
+![](https://github.com/dhaya007/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/SWOT%20D.jpg)
+
 ## HIGH LEVEL REQUIREMENTS
 
 ## LOW LEVEL REQUIREMENTS
