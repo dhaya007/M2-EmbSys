@@ -63,7 +63,20 @@ Smartwatches are trending devices that give its users the ability to be connecte
 
 ### 3.1 Block Diagram
 
+![](https://github.com/dhaya007/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/CD.jpg)
+
 ### 3.2 Components Description
+
+
+Temperature Sensor: It is used to monitor the persons temperature.
+
+Step Sensor: It shows the number of steps
+
+LED: It glows when temperature is low or high than the normal value.
+
+Keypad: It is used to change the digits.
+
+LED Display: It is used to diplay the temperature level, step count and keypad.
 
 
 ## 4. ARCHITECTURE 
