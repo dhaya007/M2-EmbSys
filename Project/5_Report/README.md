@@ -1,12 +1,24 @@
+# SMART WATCH 
+
+## Table of content
+
+| S.No | Table of content |
+|------|------------------|
+| 1. | About |
+| 2. | Requirements |
+| 3. | Block Diagram and Components Description |
+| 4. | Architecture |
+| 5. | Test Plan And Output |
+| 6. | Output |
 
 
+## 1. ABOUT 
 
-
-## ABSTRACT
+### 1.1 Abstract
 
 Smartwatches are trending devices that give its users the ability to be connected, send/receive emails and messages, keep track of health and fitness, and even make calls on the go. Despite these benefits, the disadvantages of smartwatches can be equally terrifying. Smartwatches contain sensitive data and useful information that could be misused if a smartwatch gets lost or stolen. This paper develops a framework to do forensics for smartwatches according to three analysis stages: physical, backup, and wireless communication. We followed the proposed framework using Apple Watch. We found that the watch stores a lot of personal information such as contacts details, text messages, calendar details, Emails, pictures, and wallet data including: stored payment cards, gate passes, and event tickets, if any. In addition, the logical acquisition of the backup files revealed to us that more sensitive information such as the user's secure ID, Wi-Fi, Bluetooth, and MAC addresses can be extracted directly from the backup. Therefore, users must encrypt their backup files to keep their personal data secured. Based on our experiment, we believe that a smartwatch can be used as a valuable evidence for forensic investigators and a more advanced framework must be further developed in this emerging field.
 
-## FEATURES
+### 1.2 Features
 
 1. Fitness and Health.
 2. Play Music
@@ -15,15 +27,18 @@ Smartwatches are trending devices that give its users the ability to be connecte
 5. Access Notifications
 6. Emergency Call and Fall Detection
 
-## 5W's & 1H
+### 1.3 5W's & 1H
 
 ![](https://github.com/dhaya007/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/5W's%20%26%201H.jpg)
 
-## SWOT ANALYSIS
+### 1.4 Swot Analysis
 
 ![](https://github.com/dhaya007/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/SWOT%20D.jpg)
 
-## HIGH LEVEL REQUIREMENTS
+
+## 2. REQUIREMENTS 
+
+### 2.1 High Level Requirements
 
 | ID | Description |
 |----|-------------|
@@ -33,7 +48,7 @@ Smartwatches are trending devices that give its users the ability to be connecte
 |HLR4 | User shall be able to monitor the increase and decrease of temperature |
 
 
-## LOW LEVEL REQUIREMENTS
+### 2.2 Low Level Requirements 
 
 | HLR | LLR | Description |
 |-----|-----|-------------|
@@ -41,3 +56,27 @@ Smartwatches are trending devices that give its users the ability to be connecte
 |HLR2 | LLR2 | Usage of Pedometer Sensor |
 |HLR3 | LLR3 | Usage of Keypad |
 |HLR4 | LLR4 | Usage of LED |
+
+
+## 3. BLOCK DIAGRAM AND COMPONENTS DESCRIPTION 
+
+### 3.1 Block Diagram
+
+### 3.2 Components Description
+
+
+## 4. ARCHITECTURE 
+
+### 4.1 Behavior Diagram
+
+![](https://github.com/dhaya007/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Behavior%20Diagram.jpg)
+
+### 4.2 Structuarl Diagram
+
+![](https://github.com/dhaya007/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Structural%20Diagram.jpg)
+
+
+## 5. TEST PLAN AND OUTPUT 
+
+
+## 6. OUTPUT
