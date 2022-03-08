@@ -10,6 +10,7 @@
 | 4. | Architecture |
 | 5. | Test Plan And Output |
 | 6. | Output |
+| 7. | Application |
 
 
 ## 1. ABOUT 
@@ -105,4 +106,16 @@ Smartwatches are trending devices that give its users the ability to be connecte
 ### 6. When temperature is normal
 
 ![](https://github.com/dhaya007/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/Temp%20normal.jpeg)
+
+
+## 7. APPLICATION
+
+Fitness centres.
+
+Health monitoring places.
+
+Can be used in hospitals.
+
+And to those patients who take treatment at home.
+
 
