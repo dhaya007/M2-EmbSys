@@ -15,6 +15,8 @@ Smartwatches are trending devices that give its users the ability to be connecte
 
 ## 5W's & 1H
 
+![](https://github.com/dhaya007/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/5W's%20%26%201H.jpg)
+
 ## SWOT ANALYSIS
 
 ![](https://github.com/dhaya007/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/SWOT%20D.jpg)
